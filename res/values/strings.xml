@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdFreeDroid</string>
+    <string name="donate_button">Click to donate</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_message">This app is ad-free, please consider donating</string>
+    <string name="hello_world">Hello World</string>
+
+</resources>
